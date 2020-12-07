@@ -14,8 +14,8 @@ Basic idea:
 - [x] Add them to the resulting GeoJSON for MapRoulette if
     * they are already on OSM (i.e. toilet in 30m radius around the coordinates of WC-Guide)
     * they do not yet have the wheelchair tag on OSM
-    * there are currently **292 toilets** that match the descriptions
-- [ ] Mark all those entries in the google speadsheet, so that others know, that they are being taken care of
+    * there are currently **over 280 toilets** that match these criteria
+- [x] Mark all those entries in the google speadsheet, so that others know, that they are being taken care of
     * they are all marked in the new column _updated_by_ with the value `MapRoulette`
 - [x] Upload GeoJSON to MapRoulette -> https://maproulette.org/browse/challenges/13826
 - [x] Profit!
