@@ -43,15 +43,14 @@ sudo npm install -g osmtogeojson
 4. To generate a MapRoulette GeoJSON, use the following command
 
 ```bash
-./wc-guide_wheelchair.py | osmtogeojson | ./convert_to_mr.py > wc-guide-maproulette.geojson
+./wheelchair.py | osmtogeojson > wc-guide-maproulette.geojson
 ```
 
 This generates a file called `wc-guide-maproulette.geojson`, that can be uploaded as a challange to MapRoulette.
 
-## Explaination of all the parts
+## Scripts
 
 * `wc-guide_wheelchair.py` reads the CSV and calls the Overpass API to find matching toilets (in a radius around the lat/lon from the CSV)
 * `osmtogeojson` is a node-based tool to convert OSM-Data (e.g. from Overpass) to standard GeoJSON
 * `convert_to_mr.py` is a script to flatten the GeoJSON to make it more suitable for MapRoulette
-
 

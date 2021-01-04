@@ -17,9 +17,16 @@ from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
 
 
-def query(query, endpoint='http://overpass.osm.ch/api/interpreter'):
-    r = requests.get(endpoint, params={'data': query})
-    return r.json()
+def query(q, endpoint='http://overpass.osm.ch/api/interpreter'):
+    try:
+        r = requests.get(endpoint, params={'data': q})
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        print("Error: %s" % e, file=sys.stderr)
+        print(traceback.format_exc(), file=sys.stderr)
+        print("")
+        return []
 
 if __name__ == "__main__":
     try:
