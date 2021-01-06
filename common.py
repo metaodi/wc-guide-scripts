@@ -2,14 +2,13 @@ import json
 from overpass_query import query
 
 def map_wc_guide(row):
-    tags = {}
+    tags = {'amenity': 'toilets'}
     tags['wc_guide_id'] = row['id']
     types = {
         '1': 'normal_toilet',
         '2': 'wheelchair_accessible_toilet',
         '4': 'urinal',
     }
-    tags['wheelchair'] = types[row['typ']]
     tags['wheelchair'] = 'yes' if row['typ'] == '2' else '' 
     
     position = []
@@ -60,3 +59,25 @@ def osm_json(elements):
         'elements': elements,
     }
     return json.dumps(osm_data, sort_keys=True, indent=2)
+
+def to_geojson(elements):
+    features = []
+    for e in elements:
+        features.append({
+            'type': 'Feature',
+            'id': e['id'],
+            'properties': e['tags'],
+            'geometry': {
+                'type': 'Point',
+                'coordinates': [
+                    e['lat'],
+                    e['lon'],
+                ]
+            },
+        })
+    geojson = {
+        'type': 'FeatureCollection',
+        'features': features,
+    }
+
+    return json.dumps(geojson, indent=2)
