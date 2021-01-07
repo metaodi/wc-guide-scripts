@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1063_1320_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "2612", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Evionnaz", "name": "Wc Public Commune Evionnaz", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "2612", "website": null, "wheelchair": null, "Cluster_ID": 14, "xyz": "1063_1320_11" }, "geometry": { "type": "Point", "coordinates": [ 7.02374, 46.178051 ] } },
+{ "type": "Feature", "properties": { "id": "19186", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Les Mar�cottes", "name": "Gare Les Mar�cottes", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19186", "website": null, "wheelchair": null, "Cluster_ID": 14, "xyz": "1063_1320_11" }, "geometry": { "type": "Point", "coordinates": [ 7.012078, 46.112534 ] } },
+{ "type": "Feature", "properties": { "id": "20865", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Salvan", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20865", "website": null, "wheelchair": null, "Cluster_ID": 14, "xyz": "1063_1320_11" }, "geometry": { "type": "Point", "coordinates": [ 7.006253, 46.111286 ] } }
+]
+}

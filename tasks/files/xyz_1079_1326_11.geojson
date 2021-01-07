@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1079_1326_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "578", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Davos", "name": "Davos Platz RhB", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "578", "website": null, "wheelchair": null, "Cluster_ID": 48, "xyz": "1079_1326_11" }, "geometry": { "type": "Point", "coordinates": [ 9.842162, 46.809723 ] } },
+{ "type": "Feature", "properties": { "id": "3385", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Langwies", "name": "Bahnhof Langwies", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "3385", "website": null, "wheelchair": null, "Cluster_ID": 48, "xyz": "1079_1326_11" }, "geometry": { "type": "Point", "coordinates": [ 9.70687, 46.820061 ] } },
+{ "type": "Feature", "properties": { "id": "4033", "amenity": "toilets", "changing_t": null, "descriptio": "Hinter alter Post", "fee": null, "hand_rail": null, "municipali": "K�blis", "name": "Bahnhof K�blis", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "4033", "website": null, "wheelchair": null, "Cluster_ID": 48, "xyz": "1079_1326_11" }, "geometry": { "type": "Point", "coordinates": [ 9.772687, 46.914405 ] } }
+]
+}

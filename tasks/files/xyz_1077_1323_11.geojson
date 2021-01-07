@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1077_1323_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "16562", "amenity": "toilets", "changing_t": null, "descriptio": "links neben Inforama-eingang", "fee": null, "hand_rail": null, "municipali": "Avers", "name": "Innerferrera", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "16562", "website": null, "wheelchair": null, "Cluster_ID": 44, "xyz": "1077_1323_11" }, "geometry": { "type": "Point", "coordinates": [ 9.456718, 46.483898 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1068_1323_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "16614", "amenity": "toilets", "changing_t": null, "descriptio": "w�hrend der Betriebszeit", "fee": null, "hand_rail": null, "municipali": "Lauterbrunnen", "name": "Talstation Schilthornbahn", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "16614", "website": "https:\/\/schilthorn.ch\/de\/Infos\/Anreise", "wheelchair": null, "Cluster_ID": 33, "xyz": "1068_1323_11" }, "geometry": { "type": "Point", "coordinates": [ 7.901573, 46.555538 ] } },
+{ "type": "Feature", "properties": { "id": "18517", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Gimmelwald", "name": "Gimmelwald, Schilthornbahn", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18517", "website": null, "wheelchair": null, "Cluster_ID": 33, "xyz": "1068_1323_11" }, "geometry": { "type": "Point", "coordinates": [ 7.893495, 46.547474 ] } },
+{ "type": "Feature", "properties": { "id": "18518", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Lauterbrunnen", "name": "Postautohaltestelle R�tti", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18518", "website": null, "wheelchair": null, "Cluster_ID": 33, "xyz": "1068_1323_11" }, "geometry": { "type": "Point", "coordinates": [ 7.902367, 46.546059 ] } }
+]
+}

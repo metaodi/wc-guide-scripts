@@ -4,3 +4,4 @@ __pycache__
 *.geojson
 *.csv
 *.json
+!tasks/files/*.geojson

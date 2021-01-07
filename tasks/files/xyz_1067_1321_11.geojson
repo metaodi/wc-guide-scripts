@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1067_1321_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1513", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Chandolin", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1513", "website": null, "wheelchair": null, "Cluster_ID": 26, "xyz": "1067_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 7.604771, 46.247925 ] } },
+{ "type": "Feature", "properties": { "id": "20546", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Oberems", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20546", "website": null, "wheelchair": null, "Cluster_ID": 38, "xyz": "1067_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 7.695409, 46.282902 ] } }
+]
+}

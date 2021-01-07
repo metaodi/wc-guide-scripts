@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1065_1322_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "19884", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Lauenen", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19884", "website": null, "wheelchair": null, "Cluster_ID": 39, "xyz": "1065_1322_11" }, "geometry": { "type": "Point", "coordinates": [ 7.33064, 46.40789 ] } }
+]
+}

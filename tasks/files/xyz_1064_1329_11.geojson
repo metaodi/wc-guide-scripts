@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1064_1329_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "4417", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Tavannes", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "4417", "website": null, "wheelchair": null, "Cluster_ID": 11, "xyz": "1064_1329_11" }, "geometry": { "type": "Point", "coordinates": [ 7.19992, 47.219967 ] } },
+{ "type": "Feature", "properties": { "id": "4571", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Tavannes", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "4571", "website": null, "wheelchair": null, "Cluster_ID": 11, "xyz": "1064_1329_11" }, "geometry": { "type": "Point", "coordinates": [ 7.199853, 47.219955 ] } },
+{ "type": "Feature", "properties": { "id": "19787", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Tavannes", "name": "Friedhof in der warmen Jahreszeit ge�ffnet", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19787", "website": null, "wheelchair": null, "Cluster_ID": 11, "xyz": "1064_1329_11" }, "geometry": { "type": "Point", "coordinates": [ 7.205973, 47.225174 ] } }
+]
+}

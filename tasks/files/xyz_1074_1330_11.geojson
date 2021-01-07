@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1074_1330_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1868", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Wetzikon", "name": "Einkaufszentrum", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1868", "website": null, "wheelchair": null, "Cluster_ID": 20, "xyz": "1074_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 8.79986, 47.327332 ] } },
+{ "type": "Feature", "properties": { "id": "3302", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Hinwil", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "3302", "website": null, "wheelchair": null, "Cluster_ID": 20, "xyz": "1074_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 8.836613, 47.302341 ] } },
+{ "type": "Feature", "properties": { "id": "18215", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Wetzikon (ZH)", "name": "Coop Kirchgasse", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18215", "website": null, "wheelchair": null, "Cluster_ID": 40, "xyz": "1074_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 8.797857, 47.325699 ] } },
+{ "type": "Feature", "properties": { "id": "18344", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Hinwil", "name": "Friedhof", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18344", "website": null, "wheelchair": null, "Cluster_ID": 20, "xyz": "1074_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 8.850773, 47.299805 ] } },
+{ "type": "Feature", "properties": { "id": "18471", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Sternenberg", "name": "Feuerwehrgeb�ude", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18471", "website": null, "wheelchair": null, "Cluster_ID": 40, "xyz": "1074_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 8.915435, 47.384735 ] } },
+{ "type": "Feature", "properties": { "id": "20407", "amenity": "toilets", "changing_t": null, "descriptio": "R�ckseite Bahnhof\/Rampe", "fee": null, "hand_rail": null, "municipali": "Gibswil-Ried", "name": "Bahnhof", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20407", "website": null, "wheelchair": null, "Cluster_ID": 20, "xyz": "1074_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 8.915624, 47.313904 ] } }
+]
+}

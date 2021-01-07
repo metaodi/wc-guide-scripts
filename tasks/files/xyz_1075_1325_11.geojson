@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1075_1325_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "2747", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Danis", "name": "Volg", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "2747", "website": null, "wheelchair": null, "Cluster_ID": 10, "xyz": "1075_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 9.055642, 46.755058 ] } },
+{ "type": "Feature", "properties": { "id": "20614", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Obersaxen", "name": "Friedhof", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20614", "website": null, "wheelchair": null, "Cluster_ID": 10, "xyz": "1075_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 9.099414, 46.748341 ] } }
+]
+}

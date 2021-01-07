@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1082_1325_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "715", "amenity": "toilets", "changing_t": null, "descriptio": "Treppe in den unteren Stock ben�tzen", "fee": null, "hand_rail": null, "municipali": "Scuol", "name": "Richtung Brentsch", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "715", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 10.294576, 46.794975 ] } },
+{ "type": "Feature", "properties": { "id": "719", "amenity": "toilets", "changing_t": null, "descriptio": "Unter der Br�cke der Umfahrungsstrasse", "fee": null, "hand_rail": null, "municipali": "Scuol", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "719", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 10.302773, 46.799736 ] } },
+{ "type": "Feature", "properties": { "id": "3930", "amenity": "toilets", "changing_t": null, "descriptio": "direkt am In gelegen zwischen Nairs und Br�cke nach Vulpera", "fee": null, "hand_rail": null, "municipali": "Scuol", "name": "Buvetta Sfondraz", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "3930", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 10.280371, 46.789364 ] } },
+{ "type": "Feature", "properties": { "id": "3932", "amenity": "toilets", "changing_t": null, "descriptio": "Ein weisses H�uschen an der alten Kantonsstrasse", "fee": null, "hand_rail": null, "municipali": "Scuol", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "3932", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 10.290359, 46.790878 ] } },
+{ "type": "Feature", "properties": { "id": "16711", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Vulpera", "name": "Feriencenter Vulpera", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "16711", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 10.283767, 46.786057 ] } }
+]
+}

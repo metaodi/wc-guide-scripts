@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1073_1321_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "20028", "amenity": "toilets", "changing_t": null, "descriptio": "Vor Restaurant de la Posta", "fee": null, "hand_rail": null, "municipali": "Russo", "name": "Dorfmitte", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20028", "website": null, "wheelchair": null, "Cluster_ID": 43, "xyz": "1073_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 8.622125, 46.20174 ] } }
+]
+}

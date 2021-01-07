@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1065_1321_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "3986", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Sion", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "3986", "website": null, "wheelchair": null, "Cluster_ID": 26, "xyz": "1065_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 7.359619, 46.233936 ] } },
+{ "type": "Feature", "properties": { "id": "19189", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "V�troz", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19189", "website": null, "wheelchair": null, "Cluster_ID": 26, "xyz": "1065_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 7.281382, 46.227329 ] } },
+{ "type": "Feature", "properties": { "id": "19886", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Sion", "name": "Terrain sports", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19886", "website": null, "wheelchair": null, "Cluster_ID": 26, "xyz": "1065_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 7.354487, 46.22876 ] } },
+{ "type": "Feature", "properties": { "id": "20509", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Sion", "name": "Parc Les Iles", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20509", "website": null, "wheelchair": null, "Cluster_ID": 26, "xyz": "1065_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 7.324016, 46.213257 ] } },
+{ "type": "Feature", "properties": { "id": "20528", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Sion", "name": "Parkng public", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20528", "website": null, "wheelchair": null, "Cluster_ID": 26, "xyz": "1065_1321_11" }, "geometry": { "type": "Point", "coordinates": [ 7.360975, 46.235767 ] } }
+]
+}

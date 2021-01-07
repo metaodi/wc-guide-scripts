@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1074_1331_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1052", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Elgg", "name": "Bahnhof, Elgg", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1052", "website": null, "wheelchair": null, "Cluster_ID": 40, "xyz": "1074_1331_11" }, "geometry": { "type": "Point", "coordinates": [ 8.863564, 47.498676 ] } },
+{ "type": "Feature", "properties": { "id": "1399", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "R�mism�hle", "name": "Bhf R�mism�hle-Zell", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1399", "website": null, "wheelchair": null, "Cluster_ID": 40, "xyz": "1074_1331_11" }, "geometry": { "type": "Point", "coordinates": [ 8.819082, 47.441536 ] } },
+{ "type": "Feature", "properties": { "id": "18231", "amenity": "toilets", "changing_t": null, "descriptio": "T�r�ffnung erbitten im Tankstellen-Shop\/Kasse", "fee": null, "hand_rail": null, "municipali": "Turbenthal", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18231", "website": null, "wheelchair": null, "Cluster_ID": 40, "xyz": "1074_1331_11" }, "geometry": { "type": "Point", "coordinates": [ 8.843636, 47.438267 ] } }
+]
+}

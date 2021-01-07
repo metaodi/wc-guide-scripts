@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1071_1324_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "988", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Guttannen", "name": "Gelmersee Staumauer", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "988", "website": null, "wheelchair": null, "Cluster_ID": 5, "xyz": "1071_1324_11" }, "geometry": { "type": "Point", "coordinates": [ 8.319955, 46.613018 ] } },
+{ "type": "Feature", "properties": { "id": "989", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Guttannen", "name": "Bergbahn Gelmersee", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "989", "website": "https:\/\/www.grimselwelt.ch\/bahnen\/gelmerbahn", "wheelchair": null, "Cluster_ID": 5, "xyz": "1071_1324_11" }, "geometry": { "type": "Point", "coordinates": [ 8.308561, 46.613609 ] } }
+]
+}

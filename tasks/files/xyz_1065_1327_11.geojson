@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1065_1327_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "3956", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Wohlen bei Bern", "name": "Migros", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "3956", "website": null, "wheelchair": null, "Cluster_ID": 0, "xyz": "1065_1327_11" }, "geometry": { "type": "Point", "coordinates": [ 7.376547, 46.967106 ] } },
+{ "type": "Feature", "properties": { "id": "16846", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Ferenbalm", "name": "Bahnhof G�mmenen", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "16846", "website": null, "wheelchair": null, "Cluster_ID": 4, "xyz": "1065_1327_11" }, "geometry": { "type": "Point", "coordinates": [ 7.23432, 46.941807 ] } },
+{ "type": "Feature", "properties": { "id": "16847", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Seedorf (BE)", "name": "Postautohaltestelle", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "16847", "website": null, "wheelchair": null, "Cluster_ID": 11, "xyz": "1065_1327_11" }, "geometry": { "type": "Point", "coordinates": [ 7.313198, 47.033226 ] } }
+]
+}

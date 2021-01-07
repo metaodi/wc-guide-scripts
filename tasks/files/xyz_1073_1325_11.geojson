@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1073_1325_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "19401", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Silenen", "name": "Rastplatz Amsteg", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19401", "website": null, "wheelchair": null, "Cluster_ID": 49, "xyz": "1073_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 8.668284, 46.781143 ] } },
+{ "type": "Feature", "properties": { "id": "19547", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Intschi", "name": "Am See", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19547", "website": null, "wheelchair": null, "Cluster_ID": 49, "xyz": "1073_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 8.641349, 46.77198 ] } },
+{ "type": "Feature", "properties": { "id": "19548", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Intschi", "name": "Seilbahn", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19548", "website": null, "wheelchair": null, "Cluster_ID": 49, "xyz": "1073_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 8.649765, 46.760654 ] } }
+]
+}

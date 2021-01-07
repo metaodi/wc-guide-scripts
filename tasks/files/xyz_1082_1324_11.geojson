@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1082_1324_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "985", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Zernez", "name": "Parkplatz an der Staumauer", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "985", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1324_11" }, "geometry": { "type": "Point", "coordinates": [ 10.196149, 46.624359 ] } },
+{ "type": "Feature", "properties": { "id": "20954", "amenity": "toilets", "changing_t": null, "descriptio": "SFr. 1.00", "fee": null, "hand_rail": null, "municipali": "Tschierv", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20954", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1324_11" }, "geometry": { "type": "Point", "coordinates": [ 10.292559, 46.639648 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "xyz_1077_1330_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1302", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "R�te", "name": "Bahnhof Weissbad", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1302", "website": null, "wheelchair": null, "Cluster_ID": 29, "xyz": "1077_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 9.435842, 47.310989 ] } },
+{ "type": "Feature", "properties": { "id": "1350", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Hundwil", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1350", "website": null, "wheelchair": null, "Cluster_ID": 29, "xyz": "1077_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 9.319947, 47.365482 ] } },
+{ "type": "Feature", "properties": { "id": "1534", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Teufen", "name": "bei Gemeindebibliothek", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1534", "website": null, "wheelchair": null, "Cluster_ID": 29, "xyz": "1077_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 9.386905, 47.39027 ] } },
+{ "type": "Feature", "properties": { "id": "1555", "amenity": "toilets", "changing_t": null, "descriptio": "beim Sportplatz hinter Hotel Linde", "fee": null, "hand_rail": null, "municipali": "Teufen", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1555", "website": null, "wheelchair": null, "Cluster_ID": 29, "xyz": "1077_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 9.39374, 47.386932 ] } },
+{ "type": "Feature", "properties": { "id": "18230", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Teufen", "name": "Bibliothek", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18230", "website": "https:\/\/www.biblioteufen.ch", "wheelchair": null, "Cluster_ID": 29, "xyz": "1077_1330_11" }, "geometry": { "type": "Point", "coordinates": [ 9.386306, 47.39146 ] } }
+]
+}
