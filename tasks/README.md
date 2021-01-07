@@ -36,5 +36,5 @@ These files are then made available via an URL (e.g. here on GitHub) and can the
 0. Update the instructions per tasks like that:
 
 ```
-This task involves loading extra data. Click [here](http://localhost:8111/import?new_layer=true&url=https://raw.githubusercontent.com/metaodi/wc-guide-scripts/master/tasks/xyz_{x}_{y}_{z}.osm) to load the data into JOSM.
+This task involves loading extra data. Click [here](http://localhost:8111/import?new_layer=true&url=https://raw.githubusercontent.com/metaodi/wc-guide-scripts/master/tasks/files/xyz_{x}_{y}_{z}.osm) to load the data into JOSM.
 ```
