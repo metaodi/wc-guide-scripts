@@ -20,8 +20,7 @@ Steps:
 0. Generate a GeoJSON from the WC-Guide CSV using `./not-in-osm.py -f wc-guide.csv > not-in-osm.geojson`
 0. Load both in QGIS (see the `wc-guide-tasks.qgz` QGIS project file)
 0. Create a new column `xyz` in the grid layer to combine the `x`, `y` and `z` column in one (`CONCAT("x",'_', "y", '_', "zoom")`)
-0. Use the QGIS processing tool «Clip points with polygons» to match the toilet points to the grid. Choose the `xyz` field to copy to the points.
-![](clip_points_with_polygons.png)
+0. Use the QGIS processing tool «Clip points with polygons» to match the toilet points to the grid. Choose the `xyz` field to copy to the points. <img src="https://github.com/metaodi/wc-guide-scripts/raw/master/tasks/clip_points_to_polygon.png" width="400" alt="Clip points with polygons dialog" />
 0. Split the new "Clipped Points" layer using the QGIS Tool «Vector» -> «Split vector layer...» and use the `xyz` field as primary key.
 
 As a result you get a directory full of GeoPackage files (one for each square), containing all the toilets of that square.
