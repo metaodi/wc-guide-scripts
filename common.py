@@ -60,6 +60,13 @@ def osm_json(elements):
     }
     return json.dumps(osm_data, sort_keys=True, indent=2)
 
+def to_float(s):
+    try:
+        f = float(s)
+        return f
+    except ValueError:
+        return s
+
 def to_geojson(elements):
     features = []
     for e in elements:
@@ -70,8 +77,8 @@ def to_geojson(elements):
             'geometry': {
                 'type': 'Point',
                 'coordinates': [
-                    e['lat'],
-                    e['lon'],
+                    to_float(e['lon']),
+                    to_float(e['lat']),
                 ]
             },
         })

@@ -54,3 +54,5 @@ This generates a file called `wc-guide-maproulette.geojson`, that can be uploade
 * `osmtogeojson` is a node-based tool to convert OSM-Data (e.g. from Overpass) to standard GeoJSON
 * `convert_to_mr.py` is a script to flatten the GeoJSON to make it more suitable for MapRoulette
 
+
+To convert GeoJSON to OSM, we use the geojson2osm npm package (https://github.com/Rub21/geojson2osm)
