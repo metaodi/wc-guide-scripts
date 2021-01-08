@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"><node lat="46.603687" lon="7.374314"  id="-1"  changeset="false" ><tag k="id" v="20106"/><tag k="amenity" v="toilets"/><tag k="name" v="Bahnhof Weissenbach"/><tag k="toilets_po" v="seated"/><tag k="wc_guide_i" v="20106"/><tag k="Cluster_ID" v="30"/><tag k="xyz" v="1065_1324_11"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"></osm>

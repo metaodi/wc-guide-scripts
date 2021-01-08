@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"><node lat="46.446102" lon="8.82954"  id="-1"  changeset="false" ><tag k="id" v="19538"/><tag k="amenity" v="toilets"/><tag k="municipali" v="Chironico"/><tag k="name" v="Parkplatz mit WC"/><tag k="toilets_po" v="seated"/><tag k="wc_guide_i" v="19538"/><tag k="Cluster_ID" v="18"/><tag k="xyz" v="1074_1323_11"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"></osm>

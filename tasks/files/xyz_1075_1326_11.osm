@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"><node lat="46.911545" lon="8.974845"  id="-1"  changeset="false" ><tag k="id" v="16823"/><tag k="amenity" v="toilets"/><tag k="municipali" v="Glarus S�d"/><tag k="toilets_po" v="seated"/><tag k="wc_guide_i" v="16823"/><tag k="Cluster_ID" v="12"/><tag k="xyz" v="1075_1326_11"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"></osm>

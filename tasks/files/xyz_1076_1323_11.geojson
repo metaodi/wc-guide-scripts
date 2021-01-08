@@ -3,6 +3,6 @@
 "name": "xyz_1076_1323_11",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "16461", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Mesocco", "name": "Rastplatz San Bernardino S�d", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "16461", "website": null, "wheelchair": null, "Cluster_ID": 44, "xyz": "1076_1323_11" }, "geometry": { "type": "Point", "coordinates": [ 9.187648, 46.462952 ] } }
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "", "fee": "", "hand_rail": "", "municipality": "Mesocco", "name": "Rastplatz San Bernardino Süd", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1076_1323_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 9.187648, 46.462952 ] ] } }
 ]
 }

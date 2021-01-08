@@ -3,6 +3,6 @@
 "name": "xyz_1081_1322_11",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "19423", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Poschiavo", "name": "La Tor (Altes Rathaus)", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19423", "website": null, "wheelchair": null, "Cluster_ID": 17, "xyz": "1081_1322_11" }, "geometry": { "type": "Point", "coordinates": [ 10.05856, 46.326488 ] } }
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "", "fee": "", "hand_rail": "", "municipality": "Poschiavo", "name": "La Tor (Altes Rathaus)", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1081_1322_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 10.05856, 46.326488 ] ] } }
 ]
 }

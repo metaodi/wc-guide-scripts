@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"><node lat="47.02916" lon="9.432122"  id="-1"  changeset="false" ><tag k="id" v="16678"/><tag k="amenity" v="toilets"/><tag k="municipali" v="Vilters-Wangs"/><tag k="name" v="Talstation Pizolbahn"/><tag k="toilets_po" v="seated"/><tag k="wc_guide_i" v="16678"/><tag k="Cluster_ID" v="2"/><tag k="xyz" v="1077_1327_11"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"></osm>
