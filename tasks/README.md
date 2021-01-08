@@ -19,9 +19,10 @@ Steps:
 1. Download the grid GeoJSON: http://tasks.osm.ch/project/22/tasks.json
 1. Generate a GeoJSON from the WC-Guide CSV using `./not-in-osm.py -f wc-guide.csv > not-in-osm.geojson`
 1. Load both in QGIS (see the `wc-guide-tasks.qgz` QGIS project file)
-1. Create a new column `xyz` in the grid layer to combine the `x`, `y` and `z` column in one (`CONCAT("x",'_', "y", '_', "zoom")`)
-1. Use the QGIS processing tool «Clip points with polygons» to match the toilet points to the grid. Choose the `xyz` field to copy to the points. <img src="https://github.com/metaodi/wc-guide-scripts/raw/master/tasks/clip_points_to_polygon.png" width="400" alt="Clip points with polygons dialog" />
-1. Split the new "Clipped Points" layer using the QGIS Tool «Vector» -> «Split vector layer...» and use the `xyz` field as primary key.
+1.  Create a new column `xyz` on the grid layer to combine the `x`, `y` and `z` column in one (`CONCAT("x",'_', "y", '_', "zoom")`)
+1. Use the QGIS geoprocessing tool «Clip» (QGIS in «Vector» > «Geoprocessing Tools» > «Clip») to match the toilet points to the grid. Choose the relevant fields to copy to the resulting layer and use UTF-8 as encoding (use the `not-in-osm` point layer as input and the grid layer `osmtm_tasks_22` as overlay). <img src="https://github.com/metaodi/wc-guide-scripts/raw/master/tasks/clip_points_to_polygon.png" width="400" alt="Clip points with polygons dialog" />
+1. Remove all columns, that should not be there (i.e. that were for processing only)
+1. Split the new clippsed layer using the QGIS Tool «Vector» -> «Split vector layer...» and use the `xyz` field as primary key.
 
 As a result you get a directory full of GeoPackage files (one for each square), containing all the toilets of that square.
 The it's a matter of converting the GeoPackage to the OSM file format to make it easier to consume the file in JOSM.
