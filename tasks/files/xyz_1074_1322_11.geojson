@@ -3,7 +3,7 @@
 "name": "xyz_1074_1322_11",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "19539", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Bodio TI", "name": "Parkpatz mit WC", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19539", "website": null, "wheelchair": null, "Cluster_ID": 18, "xyz": "1074_1322_11" }, "geometry": { "type": "Point", "coordinates": [ 8.917391, 46.373318 ] } },
-{ "type": "Feature", "properties": { "id": "19899", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Giornico", "name": "Kirche", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "19899", "website": null, "wheelchair": null, "Cluster_ID": 18, "xyz": "1074_1322_11" }, "geometry": { "type": "Point", "coordinates": [ 8.87439, 46.402481 ] } }
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "", "fee": "", "hand_rail": "", "municipality": "Bodio TI", "name": "Parkpatz mit WC", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1074_1322_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 8.917391, 46.373318 ] ] } },
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "", "fee": "", "hand_rail": "", "municipality": "Giornico", "name": "Kirche", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1074_1322_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 8.87439, 46.402481 ] ] } }
 ]
 }

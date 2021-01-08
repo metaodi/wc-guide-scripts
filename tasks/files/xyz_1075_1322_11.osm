@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"><node lat="46.35799" lon="8.972459"  id="-1"  changeset="false" ><tag k="id" v="20080"/><tag k="amenity" v="toilets"/><tag k="municipali" v="Biasca"/><tag k="name" v="Parco Emma, gegen�ber Coop"/><tag k="toilets_po" v="urinal"/><tag k="wc_guide_i" v="20080"/><tag k="Cluster_ID" v="18"/><tag k="xyz" v="1075_1322_11"/></node></osm>
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"></osm>

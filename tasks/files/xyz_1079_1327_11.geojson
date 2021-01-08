@@ -3,7 +3,7 @@
 "name": "xyz_1079_1327_11",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "18841", "amenity": "toilets", "changing_t": null, "descriptio": "Schl�ssel Verlangen Im Shop", "fee": null, "hand_rail": null, "municipali": "Schiers", "name": "Coop Tankstelle", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "18841", "website": null, "wheelchair": null, "Cluster_ID": 48, "xyz": "1079_1327_11" }, "geometry": { "type": "Point", "coordinates": [ 9.684001, 46.970104 ] } },
-{ "type": "Feature", "properties": { "id": "20712", "amenity": "toilets", "changing_t": null, "descriptio": "Dixi", "fee": null, "hand_rail": null, "municipali": "Sankt Ant�nien", "name": "St. Ant�nien Parkplatz P3", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20712", "website": null, "wheelchair": null, "Cluster_ID": 48, "xyz": "1079_1327_11" }, "geometry": { "type": "Point", "coordinates": [ 9.826945, 46.972324 ] } }
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "Schlüssel Verlangen Im Shop", "fee": "", "hand_rail": "", "municipality": "Schiers", "name": "Coop Tankstelle", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1079_1327_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 9.684001, 46.970104 ] ] } },
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "Dixi", "fee": "", "hand_rail": "", "municipality": "Sankt Antönien", "name": "St. Antönien Parkplatz P3", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1079_1327_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 9.826945, 46.972324 ] ] } }
 ]
 }

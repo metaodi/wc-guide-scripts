@@ -3,7 +3,7 @@
 "name": "xyz_1066_1325_11",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "1146", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "R�ti Bei Riggisberg", "name": "Gurnigel Berghaus", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "1146", "website": null, "wheelchair": null, "Cluster_ID": 7, "xyz": "1066_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 7.453215, 46.733524 ] } },
-{ "type": "Feature", "properties": { "id": "2541", "amenity": "toilets", "changing_t": null, "descriptio": "im Untergeschoss", "fee": null, "hand_rail": null, "municipali": "Erlenbach im Simmental", "name": "Bergstation Stockhornbahn", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "2541", "website": null, "wheelchair": null, "Cluster_ID": 7, "xyz": "1066_1325_11" }, "geometry": { "type": "Point", "coordinates": [ 7.538048, 46.693474 ] } }
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "", "fee": "", "hand_rail": "", "municipality": "Rüti Bei Riggisberg", "name": "Gurnigel Berghaus", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1066_1325_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.453215, 46.733524 ] ] } },
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "im Untergeschoss", "fee": "", "hand_rail": "", "municipality": "Erlenbach im Simmental", "name": "Bergstation Stockhornbahn", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1066_1325_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.538048, 46.693474 ] ] } }
 ]
 }

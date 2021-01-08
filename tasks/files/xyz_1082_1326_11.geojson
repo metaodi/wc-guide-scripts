@@ -3,7 +3,7 @@
 "name": "xyz_1082_1326_11",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "3934", "amenity": "toilets", "changing_t": null, "descriptio": "Separates H�uschen unterhalb des Restaurants.", "fee": null, "hand_rail": null, "municipali": "Vn�", "name": null, "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "3934", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1326_11" }, "geometry": { "type": "Point", "coordinates": [ 10.330474, 46.870857 ] } },
-{ "type": "Feature", "properties": { "id": "20680", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Sent", "name": "Sportplatz", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20680", "website": null, "wheelchair": null, "Cluster_ID": 47, "xyz": "1082_1326_11" }, "geometry": { "type": "Point", "coordinates": [ 10.34237, 46.818333 ] } }
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "Separates Häuschen unterhalb des Restaurants.", "fee": "", "hand_rail": "", "municipality": "Vnà", "name": "", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1082_1326_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 10.330474, 46.870857 ] ] } },
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "", "fee": "", "hand_rail": "", "municipality": "Sent", "name": "Sportplatz", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1082_1326_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 10.34237, 46.818333 ] ] } }
 ]
 }

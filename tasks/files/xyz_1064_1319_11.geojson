@@ -3,6 +3,6 @@
 "name": "xyz_1064_1319_11",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "20501", "amenity": "toilets", "changing_t": null, "descriptio": null, "fee": null, "hand_rail": null, "municipali": "Orsi�res", "name": "T�l�si�ge", "network": null, "stairs": null, "toilets_po": "seated", "wc_guide_i": "20501", "website": null, "wheelchair": null, "Cluster_ID": 26, "xyz": "1064_1319_11" }, "geometry": { "type": "Point", "coordinates": [ 7.106696, 46.031296 ] } }
+{ "type": "Feature", "properties": { "amenity": "toilets", "changing_table": "", "description": "", "fee": "", "hand_rail": "", "municipality": "Orsières", "name": "Télésiège", "network": "", "stairs": "", "toilets:position": "seated", "website": "", "wheelchair": "", "xyz": "1064_1319_11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.106696, 46.031296 ] ] } }
 ]
 }
